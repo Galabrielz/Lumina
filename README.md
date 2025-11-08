@@ -121,7 +121,7 @@ Sistema de mentoria acadêmica com lógica de recomendação baseada em aprendiz
 •	Documentação oficial do scikit-learn: https://scikit-learn.org/stable/Flask documentation;  
 •	Documentação oficial do Flask: https://flask.palletsprojects.com/Artigos sobre IA aplicada à educação;  
 •	Documentação oficial do React: https://reactjs.org/  
-•	SILVA, J. A. et al. A eficácia da mentoria escolar na promoção do desenvolvimento socioemocional e instrumental de jovens. Educação & Pesquisa, v. 47, 2021. Disponível em: https://www.scielo.br/j/ep/a/Vn5wy9jHpbS7wBMV86HtttK/.  
+•	SILVA, J. A. et al. A eficácia da mentoria escolar na promoção do desenvolvimento socioemocional e instrumental de jovens. Educação & Pesquisa, v. 47, 2021. Disponível em: https://www.scielo.br/j/ep/a/Vn5wy9jHpbS7wBMV86HtttK/
 •	MELO, D. A. et al. Programas de mentoria da UFSCar: bases teórico-metodológicas, características e contribuições. Educação & Sociedade, v. 44, 2023. Disponível em: https://educa.fcc.org.br/scielo.php?pid=S1676-25922023000100115&script=sci_arttext
 
 
